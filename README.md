@@ -24,7 +24,7 @@ Seorang mahasiswa...
 ## 🌐 Connect with Me
 
 * 💼 LinkedIn: [Link LinkedIn kamu]
-* 📸 Instagram: [@_nayrraa] (www.instagram.com/@_nayrraa)
+* 📸 Instagram: [@_nayrraa](www.instagram.com/@_nayrraa)
 
 ---
 
