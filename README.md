@@ -1,4 +1,4 @@
-![Banner](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Welcome&fontColor=ffffff&fontSize=40" width="100%" />
 
 # Haloo, Nayra disini..
 
