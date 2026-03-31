@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Welcome to Neyoow's Page🤩 &fontColor=ffffff&fontSize=40" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Welcome%20to%20Neyoow%27s%20Page&fontColor=ffffff&fontSize=40" width="100%" />
 
 # Haloo, Nayra disini..
 
