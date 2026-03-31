@@ -2,7 +2,7 @@
 
 # Haloo, Nayra disini..
 
-Seorang mahasiswa [Teknik Informatika](https://if.unud.ac.id/) di [Universitas Udayana](https://unud.ac.id), yang saat ini sudah memasuki semester 6. Selain perkuliahan, saya juga sedang mengikuti program Magang Mandiri di [Infinite Learning Indonesia](https://www.infinitelearning.id/) dan mengambil program AI Development. Beberapa hal yang sudah saya pelajari sejauh ini antara lain Python, penggunaan NumPy dan Pandas, serta problem solves. Sedikit funfact tentang saya adalah bisa selalu jadi yang terdepan dimanapun dan kapanpun dan yang peling utama adalah no one can call me "mantannya nay" hahaha 😁😆
+Seorang mahasiswa [Teknik Informatika](https://if.unud.ac.id/) di [Universitas Udayana](https://unud.ac.id), yang saat ini sudah memasuki semester 6. Selain perkuliahan, saya juga sedang mengikuti program Magang Mandiri di [Infinite Learning Indonesia](https://www.infinitelearning.id/) dan mengambil program AI Development. Beberapa hal yang sudah saya pelajari sejauh ini antara lain Python, penggunaan NumPy dan Pandas, serta problem solves. Sedikit funfact tentang saya adalah bisa selalu jadi yang terdepan dimanapun dan kapanpun dan yang paling utama adalah no one can call me "mantannya nay" hahaha 😁😆
 
 ---
 
