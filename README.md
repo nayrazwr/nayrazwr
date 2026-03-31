@@ -25,6 +25,8 @@ Nayra.
 ![GitHub Streak](https://streak-stats.demolab.com/?user=nayrazwr\&theme=tokyonight)
 ---
 
-![Banner](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="70%" />
+</p>
 
 ---
