@@ -1,6 +1,6 @@
 # Haloo, Nayra disini..
 
-Seorang mahasiswa...
+Seorang mahasiswa 
 
 ---
 
@@ -15,9 +15,9 @@ Seorang mahasiswa...
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nayrazwr\&show_icons=true\&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=USERNAME\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=nayrazwr\&theme=tokyonight)
 
 ---
 
